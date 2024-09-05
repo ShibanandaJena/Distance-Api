@@ -1,0 +1,16 @@
+{
+  "name": "distance-api",
+  "version": "1.0.0",
+  "description": "This is a test API \r I am testing this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
